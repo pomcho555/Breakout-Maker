@@ -1,0 +1,11 @@
+{
+"companyName": "ONM",
+"productName": "Breakout Maker",
+"dataUrl": "Breaout-Maker-web.data.unityweb",
+"asmCodeUrl": "Breaout-Maker-web.asm.code.unityweb",
+"asmMemoryUrl": "Breaout-Maker-web.asm.memory.unityweb",
+"asmFrameworkUrl": "Breaout-Maker-web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
